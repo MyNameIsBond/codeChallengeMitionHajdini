@@ -1,0 +1,35 @@
+{
+  "name": "codechallenge",
+  "version": "1.0.0",
+  "description": "A code challenge for thirdfort.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyNameIsBond/codeChallengeMitionHajdini.git"
+  },
+  "keywords": [
+    "code",
+    "challenge",
+    "thirdfort"
+  ],
+  "author": "Mition Hajdini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyNameIsBond/codeChallengeMitionHajdini/issues"
+  },
+  "homepage": "https://github.com/MyNameIsBond/codeChallengeMitionHajdini#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^5.3.1",
+    "mongoose": "^5.5.15"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^5.2.0"
+  }
+}
