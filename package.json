@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/MyNameIsBond/codeChallengeMitionHajdini#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^5.3.1",
     "mongoose": "^5.5.15"
   },
